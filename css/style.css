@@ -9,7 +9,7 @@ body {
 /* Layout */
 
 #container {
-  border: 30px dotted #C0360C;
+  border: 30px dashed #C0360C;
   padding: 15px 30px;
   max-width: 500px;
 }
