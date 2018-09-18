@@ -9,7 +9,8 @@ body {
 /* Layout */
 
 #container {
-  border: 30px dashed #C0360C;
+  border: 30px #C0360C;
+  border-style: dashed;
   padding: 15px 30px;
   max-width: 500px;
 }
