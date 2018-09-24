@@ -31,6 +31,8 @@ h1 {
 }
 
 header {
+  font-family: 'Helvetica', 'Sans-Serif';
+  font-weight: bold;
   background-color: white;
   position: fixed;
   width: 10%;
@@ -53,3 +55,10 @@ figcaption {
    font-family: 'Roboto', sans-serif;
   font-size: .7em; 
 }
+
+a {
+    text-decoration: none;
+    color: #999;
+}
+a:hover {
+    text-decoration: underline;
