@@ -32,10 +32,10 @@ h1 {
 }
 
 header {
-  background-color: ;
+  background-color: white;
   position: fixed;
   width: 10%;
-  padding-top: 10px;
+  padding-top: 3px;
 }
 
 #pullquote {
