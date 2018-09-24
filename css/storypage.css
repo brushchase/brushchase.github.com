@@ -1,4 +1,6 @@
-
+body {
+  margin: 90px;
+}
 figure {
   max-width: 900px;
   margin-left: auto;
