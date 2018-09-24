@@ -6,7 +6,7 @@ figure {
 }
 
 #date {
-  font-size: 1em;
+  font-size: .9em;
   text-align: center;
 }
 
@@ -48,5 +48,5 @@ header {
 
 figcaption {
    font-family: 'Roboto', sans-serif;
-  font-size: 1em; 
+  font-size: .9em; 
 }
