@@ -1,0 +1,167 @@
+body {
+  background-image: url("img1.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+figure {
+  max-width: 900px;
+  margin-left: 0;
+  margin-right: auto;
+}
+
+#date {
+  font-family: courier;
+  font-size: 1em;
+  padding-top: 10px;
+  margin-top: 9%;
+  text-align: center;
+}
+
+img {
+  width: 100%;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  line-height: 23px;
+  max-width: 600px;
+  margin-left: 0;
+  margin-right: auto;
+}
+
+p.lede::first-letter {
+  font-family: 'Bitter', serif;
+  font-size: 500%;
+}
+
+p.lede {
+padding-top: 20px;
+
+}
+
+h1 {
+  font-family: 'Bitter', serif;
+  max-width: 600px;
+  margin-left: 0;
+  margin-right: auto;
+  line-height: 1.57;
+}
+h1 span { /*this is headline formatting*/
+  color: white;
+  background: rgb(128, 128, 128); /* fallback color */
+  background: rgba(128, 128, 128, 0.6);
+  padding: 3px;
+}
+
+span.spacer {
+  padding: 0 5px 0 5px;
+  background: transparent;
+}
+
+h2 {
+  font-family: 'Roboto Condensed', sans-serif;
+  max-width: 900px;
+  margin-left: 0;
+  margin-right: auto;
+  line-height: 1.63;
+}
+
+h2 span {
+  color: white;
+  background: rgb(128, 128, 128); /* fallback color */
+  background: rgba(128, 128, 128, 0.6);
+  padding: 5px;
+}
+
+h3 {
+  font-family: 'Bitter';
+  text-align: center;
+  font-size: 21px;
+}
+
+h4 {
+  font-family: 'Roboto Condensed';
+  padding-left: 10px;
+}
+
+header {
+  font-family: 'Helvetica', 'Sans-Serif';
+  font-weight: bold;
+  position: fixed;
+  width: 10%;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+  top: 0
+}
+
+#main {
+  max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:43%;
+}
+
+
+
+#pullquote {
+  font-family: 'Bitter', serif;
+  width: 30%;
+  float: right;
+  border-left: 2px solid black;
+  padding-left: 10px;
+  margin-left: 10px;
+  text-align: left;
+}
+
+figcaption {
+   font-family: 'Roboto', sans-serif;
+  font-size: .7em;
+}
+
+a {
+    text-decoration: none;
+    color: #999;
+}
+
+a:hover {
+    text-decoration: underline;
+  }
+
+#graphic {
+  display: block;
+  float: right;
+  max-width: 450px;
+  margin: auto;
+  margin-left: 30px;
+  margin-bottom: 10px;
+  padding: 0px 5px 0px 10px;
+  border: grey solid .03em;
+    box-shadow: 10px 10px 8px #888888;
+}
+
+#graphic article {
+  margin: 10px;
+}
+
+.graphic-caption {
+  font-size: 14px;
+}
+
+article {
+  max-height: 300px;
+  display: flex;
+  padding-bottom: 30px;
+}
+
+.icon {
+  width: 50%;
+  height: 50%;
+  padding: 10px;
+}
+
+footer {
+  font-family: Courier;
+  text-align: center;
+
+}
