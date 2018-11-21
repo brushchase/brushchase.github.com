@@ -63,29 +63,12 @@ a:hover {
     text-decoration: underline;
   }
 
-#chart1 {
-    display: flex;
-    max-width: 1200px;
+.charts {
+    max-width: 800px;
     margin-left: auto;
     margin-right: auto;
   }
 
-  #chart2 {
-    max-width: 900px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-  .graph {
-    flex: 50%;
-    padding: 5px;
-  }
-
-  @media screen and (max-width: 500px) {
-  .column {
-    width: 100%;
-  }
-}
 
 footer {
   font-family: Courier;
