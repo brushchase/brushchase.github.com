@@ -1,0 +1,94 @@
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  width: 30%;
+  margin-left: 5%;
+  position: fixed;
+  z-index: 1;
+  top: 20px;
+  left: 10px;
+  overflow-x: hidden;
+  padding: 30px 0;
+}
+
+
+.sidenav a {
+  padding: 12px 8px 12px 16px;
+  text-decoration: none;
+  text-align: right;
+  font-size: 25px;
+  color: black;
+  display: block;
+}
+
+h1{
+  margin-bottom: 0;
+}
+
+.sidenav a:hover {
+  color: orange;
+}
+
+.main {
+  margin-left: 40%; /* Same width as the sidebar + left position in px */
+}
+
+.about {
+    margin-left: 40%;
+    max-width: 465px;
+    margin-top: 7%;
+    font-size: 14px;
+}
+
+.photos {
+    margin-left: 40%; /* Same width as the sidebar + left position in px */
+    max-width: 465px;
+}
+
+.contact {
+  margin-left: 40%;
+  max-width: 465px;
+  margin-top: 7%;
+  font-size: 14px;
+}
+
+.writing {
+  margin-left: 40%;
+  max-width: 465px;
+  font-size: 14px;
+}
+
+img {
+  width:100%;
+  max-width: 465px;
+  height: 100%;
+}
+
+p {
+  line-height: 1.6;
+}
+
+p a {
+  text-decoration: underline;
+  color: black;
+  font-weight: bold;
+  font-family: "Lucida Console", Monaco, monospace;
+}
+
+a:hover {
+  color: orange;
+
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+
+/*Font-Family: 'Roboto Condensed', Sans-Serif;
+Font-Size: 35px;
+Font-Family: 'Cabin', Sans-Serif;
+Font-Size: 16px;*/
