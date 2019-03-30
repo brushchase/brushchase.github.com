@@ -39,7 +39,7 @@ h1{
     margin-left: 40%;
     max-width: 465px;
     margin-top: 7%;
-    font-size: 14px;
+    font-size: 1vw;
 }
 
 .photos {
@@ -51,13 +51,13 @@ h1{
   margin-left: 40%;
   max-width: 465px;
   margin-top: 7%;
-  font-size: 14px;
+  font-size: 1vw;
 }
 
 .writing {
   margin-left: 40%;
   max-width: 465px;
-  font-size: 14px;
+  font-size: 1vw;
 }
 
 img {
@@ -83,10 +83,12 @@ a:hover {
 }
 
 
-@media screen and (max-height: 450px) {
+@media screen and (max-height: 450px;) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
+
+
 
 
 /*Font-Family: 'Roboto Condensed', Sans-Serif;
