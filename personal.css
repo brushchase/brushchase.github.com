@@ -62,7 +62,7 @@ h1{
 }
 
 img {
-  width:100%;
+  width:auto;
   max-width: 465px;
   height: 100%;
 }
