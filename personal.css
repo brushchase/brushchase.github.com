@@ -33,6 +33,7 @@ h1{
 
 .main {
   margin-left: 40%; /* Same width as the sidebar + left position in px */
+  height: 100%;
 }
 
 .about {
