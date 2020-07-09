@@ -39,32 +39,32 @@ h1{
 
 .about {
     margin-left: 40%;
-    max-width: 465px;
+    max-width: 600px;
     margin-top: 7%;
     font-size: 1vw;
 }
 
 .photos {
     margin-left: 40%; /* Same width as the sidebar + left position in px */
-    max-width: 465px;
+    max-width: 600px;
 }
 
 .contact {
   margin-left: 40%;
-  max-width: 465px;
+  max-width: 600px;
   margin-top: 7%;
   font-size: 1vw;
 }
 
 .writing {
   margin-left: 40%;
-  max-width: 465px;
+  max-width: 600px;
   font-size: 1vw;
 }
 
 img {
   width:auto;
-  max-width: 465px;
+  max-width: 600px;
 }
 
 p {
