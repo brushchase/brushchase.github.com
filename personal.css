@@ -40,8 +40,8 @@ h1{
 .about {
     margin-left: 40%;
     max-width: 600px;
-    margin-top: 7%;
-    font-size: 1vmax;
+    margin-top: 5%;
+    font-size: 1vmin;
 }
 
 .photos {
@@ -52,14 +52,14 @@ h1{
 .contact {
   margin-left: 40%;
   max-width: 600px;
-  margin-top: 7%;
-  font-size: 1vmax;
+  margin-top: 5%;
+  font-size: 1vmin;
 }
 
 .writing {
   margin-left: 40%;
   max-width: 600px;
-  font-size: 1vmax;
+  font-size: 1vmin;
 }
 
 img {
