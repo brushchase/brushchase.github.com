@@ -33,6 +33,7 @@ h1{
 }
 
 .main {
+  margin-top: 5%;
   margin-left: 40%; /* Same width as the sidebar + left position in px */
   height: 100%;
 }
@@ -45,6 +46,7 @@ h1{
 }
 
 .photos {
+  margin-top: 5%;
     margin-left: 40%; /* Same width as the sidebar + left position in px */
     max-width: 30%;
 }
