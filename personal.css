@@ -44,12 +44,14 @@ h1{
     max-width: 30%;
     margin-top: 5%;
     font-size: 1.5vmin;
+    padding-top: 10px;
 }
 
 .photos {
   margin-top: 5%;
     margin-left: 40%; /* Same width as the sidebar + left position in px */
     max-width: 40%;
+    padding-top: 10px;
 }
 
 .contact {
@@ -57,6 +59,7 @@ h1{
   max-width: 30%;
   margin-top: 5%;
   font-size: 1.5vmin;
+  padding-top: 10px;
 }
 
 .writing {
@@ -64,6 +67,7 @@ h1{
   max-width: 30%;
   margin-top: 5%;
   font-size: 1.5vmin;
+  padding-top: 10px;
 }
 
 img {
