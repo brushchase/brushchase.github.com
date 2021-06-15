@@ -14,6 +14,7 @@ h1, h2, h3, h4, h5, h6 {
 p.view {
   
    margin:0 0 0px !important;
+   text-align: right;
   
 }
 
@@ -27,8 +28,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:28px;
-  font-weight: 500;
+  font-size:50px;
 }
 
 h2 {
@@ -111,7 +111,7 @@ img {
 }
 
 header {
-  width:270px;
+  width:170px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -124,7 +124,7 @@ header ul {
   background: #f4f4f4;
   border-radius:5px;
   border:1px solid #e0e0e0;
-  width:270px;
+  width:170px;
 }
 
 header li {
@@ -177,7 +177,7 @@ header ul a strong {
 }
 
 section {
-  width:500px;
+  width:600px;
   float:right;
   padding-bottom:50px;
 }
@@ -194,7 +194,7 @@ hr {
 }
 
 footer {
-  width:270px;
+  width:170px;
   float:left;
   position:fixed;
   bottom:50px;
