@@ -1,7 +1,7 @@
 body {
   background-color: #fff;
   padding:50px;
-  font: 18px/1.5 'Bebas Neue', cursive, 'Roboto', sans-serif;
+  font: 16px/1.5 'Bebas Neue', cursive, 'Roboto', sans-serif;
   color:#595959;
   font-weight:400;
 }
@@ -31,12 +31,12 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:50px;
+  font-size:60px;
 }
 
 h1 a, h1 a:hover {
     color:#222;
-    font-size: 50px;
+    font-size: 60px;
 }
   
 
